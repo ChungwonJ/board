@@ -1,7 +1,7 @@
 package com.example.board.entity;
 
+import jakarta.persistence.MappedSuperclass;
 import lombok.Getter;
-import jakarta.persistence.*;
 
 @Getter
 @MappedSuperclass
